@@ -1,34 +1,38 @@
 .navbar {
-    list-style: none;   
-    margin-left: -45px;
-   }
- .navbar li {
-   float: left;
-      padding: 5px;
-   }
-   
- .intro {
-   clear: left;}
- 
- table {
-      background-color: #ffffff;
-      border: solid 1px #000000;
-      border-collapse: collapse;
-      
-    }
-    
-   th {
-    background-color:#bababa
-   } 
- 
-    td, th {
-     border: solid 1px #000000;
-    padding: 15px;
-   
-    }
-    
- thead {
-      background-color: #bababa;
-    }
- 
-    
+  list-style: none;
+  margin-left: -45px;
+}
+.navbar li {
+  float: left;
+  padding: 5px;
+}
+
+header {
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+.intro {
+  clear: left;
+}
+
+table {
+  background-color: #ffffff;
+  border: solid 1px #000000;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #bababa;
+}
+
+td,
+th {
+  border: solid 1px #000000;
+  padding: 15px;
+}
+
+thead {
+  background-color: #bababa;
+}
